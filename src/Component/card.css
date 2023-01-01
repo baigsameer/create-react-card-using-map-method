@@ -1,0 +1,28 @@
+
+
+.container{
+     width: 20%;
+     height: 30%;
+margin-left: 20px;
+  display: flex;
+    border: 5px solid rgb(189, 172, 172);
+    /* background-color: rgb(196, 195, 195); */
+    /* display: flex; */
+}
+.item img{
+    width: 40vh;
+        display: block;
+    }
+    .pa p{
+        /* border: 5px solid rgb(189, 172, 172); */
+    width: 260px;
+    padding-left: 6px;
+}
+
+button{
+    padding: 5px;
+    padding-left: 10px;
+    margin-left: 90px;
+    margin-bottom: 6px;
+    border: 2px solid rgb(20, 19, 19);
+}
